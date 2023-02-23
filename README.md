@@ -8,7 +8,7 @@ Hi! I'm Gabie—a ~~struggling~~ master's student in Cybersecurity in New York C
 👾  I like anime \
 📚  I enjoy reading books \
 📸  I document my everyday life through photography \
-🎮  I occasional play Call of Duty, Gran Turismo, and Stardew Valley
+🎮  I occasionally play Call of Duty, Gran Turismo, and Stardew Valley
 
 ## Socials
 - [LinkedIn](https://www.linkedin.com/in/gabrielleauy/)
