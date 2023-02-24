@@ -5,8 +5,8 @@ Hi! I'm Gabie—a ~~struggling~~ master's student in Cybersecurity in New York C
 ## Fun facts
 🏎️  I religiously follow Formula 1 \
 🏐  I'm a fan of volleyball national games \
-👾  I like anime \
-📚  I enjoy reading books \
+👾  I enjoy anime \
+📚  I like reading books \
 📸  I document my everyday life through photography \
 🎮  I occasionally play Call of Duty, Gran Turismo, and Stardew Valley
 
