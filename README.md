@@ -3,8 +3,9 @@
 <!-- SNORLAX -->
 
 <p align="center">
-  <img src="https://github.com/gabizzle/gabizzle/assets/67624149/0d46fccd-7a59-4427-9591-02ffafbccc56" alt="snorlax 1" width="92">
-  <img src="https://github.com/gabizzle/gabizzle/assets/67624149/f9926d16-8b46-4e94-8ef1-8760e2f2b3fd" alt="snorlax 2" width="100">
+  <img src="https://www.codedex.io/api/petStatus?user=gabizzle" alt="@gabizzle #30NitesOfCode" width="100" height="100">
+  <br>
+  <a href="https://www.codedex.io/@gabizzle/30-nites-of-code">#30NitesOfCode</a>
 </p>
 
 <!-- BUTTONS -->
@@ -48,6 +49,10 @@ Aside from that, I have multiple (maybe too many) hobbies and interests that kee
 That's a simple way of explaining who I am, and Github can do the rest on the techy side of things.
 
 **Ciao! 👋🏻** 
+
+<div>
+  <img src="https://github.com/gabizzle/gabizzle/assets/67624149/0d46fccd-7a59-4427-9591-02ffafbccc56" alt="snorlax 1" width="92">
+</div>
 
 <!-- HITS -->
 
