@@ -21,7 +21,7 @@
 <!-- CONTENT WARNING -->
 
 > [!WARNING]
-> User nonfuntional without coffee...
+> User nonfunctional without coffee...
 <br>
 
 <!-- ABOUT ME -->
