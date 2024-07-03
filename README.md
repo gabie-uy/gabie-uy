@@ -30,7 +30,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=45&pause=400&color=29738E&random=false&width=1081&height=61&lines=About+Me)](https://git.io/typing-svg)
 
 <p align="center">
-  I'm a recent graduate with an MS in Cybersecurity in New York. Currently working on passing multiple certifications and learning Python and WebDev through projects. I'm still focusing on Cybersecurity mainly on <b><i>Incident Response, Vulnerability Assessment, Penetration Testing & Network Security</i></b>
+  I'm a recent graduate with an MS in Cybersecurity in New York. Currently working on passing multiple certifications and learning Python and WebDev through building multiple projects. I'm still focusing on Cybersecurity mainly on <b><i>Incident Response, Vulnerability Assessment, Penetration Testing & Network Security</i></b>
 </p>
 
 -----
