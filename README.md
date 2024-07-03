@@ -52,7 +52,7 @@ That's a simple way of explaining who I am, and Github can do the rest on the te
 
 <!-- MEET BELLA -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=29738E&left=true&random=false&width=1080&height=60&lines=Meet+Bella)](https://git.io/typing-svg) <img src="https://www.codedex.io/api/petStatus?user=gabizzle" alt="@gabizzle #30NitesOfCode" width="100" height="100">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=29738E&left=true&random=false&width=1080&height=60&lines=Meet+Bella)](https://git.io/typing-svg) <img src="https://www.codedex.io/api/petStatus?user=gabizzle" alt="@gabizzle #30NitesOfCode" width="118" height="118">
   
 <div align="left">  
   <a href="https://www.codedex.io/@gabizzle/30-nites-of-code">#30NitesOfCode</a>
