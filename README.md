@@ -2,22 +2,21 @@
 
 <!-- SNORLAX -->
 
-<p align="center">
-  <img src="https://www.codedex.io/api/petStatus?user=gabizzle" alt="@gabizzle #30NitesOfCode" width="100" height="100">
-  <br>
-  <a href="https://www.codedex.io/@gabizzle/30-nites-of-code">#30NitesOfCode</a>
-</p>
+<div align="center">
+  <img src="https://github.com/gabizzle/gabizzle/assets/67624149/0d46fccd-7a59-4427-9591-02ffafbccc56" alt="snorlax 1" width="92">
+</div>
+<br><br>
 
 <!-- BUTTONS -->
 
 <div align="center">
-  
+
   [![Codedex Profile](https://img.shields.io/badge/Codedex_Profile-29738e)](https://www.codedex.io/@gabizzle)
   [![VSCO](https://img.shields.io/badge/VSCO_Photography_Profile-5f96aa)](https://vsco.co/gabie-uy/gallery)
   [![My Anime list](https://img.shields.io/badge/My_Anime_List-f1e5d7)](https://myanimelist.net/animelist/gabizzle?status=2)
   [![Coffee Blog](https://img.shields.io/badge/Coffee_Blog-cec1b8)]()
   [![Twitch Gaming](https://img.shields.io/badge/Twitch_Gaming-7f6f62)](https://www.twitch.tv/gabizzle11)
-
+  
 </div>
 
 <!-- CONTENT WARNING -->
@@ -49,12 +48,16 @@ Aside from that, I have multiple (maybe too many) hobbies and interests that kee
 That's a simple way of explaining who I am, and Github can do the rest on the techy side of things.
 
 **Ciao! 👋🏻** 
+<br><br>
 
-<div>
-  <img src="https://github.com/gabizzle/gabizzle/assets/67624149/0d46fccd-7a59-4427-9591-02ffafbccc56" alt="snorlax 1" width="92">
+<!-- MEET BELLA -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=29738E&left=true&random=false&width=1080&height=60&lines=Meet+Bella)](https://git.io/typing-svg) <img src="https://www.codedex.io/api/petStatus?user=gabizzle" alt="@gabizzle #30NitesOfCode" width="100" height="100">
+  
+<div align="left">  
+  <a href="https://www.codedex.io/@gabizzle/30-nites-of-code">#30NitesOfCode</a>
+    <br><br><br>
 </div>
-
-<!-- HITS -->
 
 <div align="center">
   <img src="https://hits.sh/github.com/gabizzle/gabizzle.svg?label=Visitors&color=f1e5d7&labelColor=29738e" alt="Hits">  
