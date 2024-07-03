@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="https://github.com/gabizzle/gabizzle/assets/67624149/0d46fccd-7a59-4427-9591-02ffafbccc56" alt="snorlax 1" width="100">
+  <img src="https://github.com/gabizzle/gabizzle/assets/67624149/f9926d16-8b46-4e94-8ef1-8760e2f2b3fd" alt="snorlax 2" width="100">
 </p>
 
 <!-- BUTTONS -->
