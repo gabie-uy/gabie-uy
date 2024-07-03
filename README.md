@@ -45,7 +45,7 @@ Aside from that, I have multiple (maybe too many) hobbies and interests that kee
 - 🏁 Car racing (mostly a Formula 1) fan
 - 🏐 Follower of international indoor volleyball
 
-That's a simple way of explaining who I am, and Github can do the rest.
+That's a simple way of explaining who I am, and Github can do the rest on the techy side of things.
 
 **Ciao! 👋🏻** 
 
