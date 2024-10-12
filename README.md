@@ -59,12 +59,12 @@ That's a simple way of explaining who I am, and Github can do the rest on the te
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=800&color=CEC1B8&center=true&random=false&width=1080&height=40&lines=Meet+Bella)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img src="https://www.codedex.io/api/petStatus?user=gabizzle" alt="@gabizzle #30NitesOfCode" width="100" height="100">
+  <img src="https://www.codedex.io/api/petStatus?user=gabie" alt="@gabie #30NitesOfCode" width="100" height="100">
   
   <a href="https://www.codedex.io/@gabie/30-nites-of-code">#30NitesOfCode</a>
     <br>
 </div>
 
 <div align="center">
-  <img src="https://hits.sh/github.com/gabizzle/gabizzle.svg?label=Visitors&color=f1e5d7&labelColor=29738e" alt="Hits">  
+  <img src="https://hits.sh/github.com/gabie/gabie.svg?label=Visitors&color=f1e5d7&labelColor=29738e" alt="Hits">  
 </div>
