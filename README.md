@@ -61,7 +61,7 @@ That's a simple way of explaining who I am, and Github can do the rest on the te
 <div align="center">  
   <img src="https://www.codedex.io/api/petStatus?user=gabizzle" alt="@gabizzle #30NitesOfCode" width="100" height="100">
   
-  <a href="https://www.codedex.io/@gabizzle/30-nites-of-code">#30NitesOfCode</a>
+  <a href="https://www.codedex.io/@gabie/30-nites-of-code">#30NitesOfCode</a>
     <br>
 </div>
 
