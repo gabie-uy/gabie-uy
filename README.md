@@ -3,7 +3,7 @@
 <!-- SNORLAX -->
 
 <div align="center">
-  <img src="https://github.com/gabizzle/gabizzle/assets/67624149/0d46fccd-7a59-4427-9591-02ffafbccc56" alt="snorlax 1" width="92">
+  <img src="https://github.com/gabie-uy/gabie-uy/assets/67624149/0d46fccd-7a59-4427-9591-02ffafbccc56" alt="snorlax 1" width="92">
 </div>
 <br><br>
 
@@ -11,11 +11,11 @@
 
 <div align="center">
 
-  [![Codedex Profile](https://img.shields.io/badge/Codedex_Profile-29738e)](https://www.codedex.io/@gabizzle)
+  [![Codedex Profile](https://img.shields.io/badge/Codedex_Profile-29738e)](https://www.codedex.io/@gabie-uy)
   [![VSCO](https://img.shields.io/badge/VSCO_Photography_Profile-5f96aa)](https://vsco.co/gabie-uy/gallery)
-  [![My Anime list](https://img.shields.io/badge/My_Anime_List-f1e5d7)](https://myanimelist.net/animelist/gabizzle?status=2)
+  [![My Anime list](https://img.shields.io/badge/My_Anime_List-f1e5d7)](https://myanimelist.net/animelist/gabie-uy?status=2)
   [![Coffee Blog](https://img.shields.io/badge/Coffee_Blog-cec1b8)]()
-  [![Twitch Gaming](https://img.shields.io/badge/Twitch_Gaming-7f6f62)](https://www.twitch.tv/gabizzle11)
+  [![Twitch Gaming](https://img.shields.io/badge/Twitch_Gaming-7f6f62)](https://www.twitch.tv/gabie-uy11)
   
 </div>
 
