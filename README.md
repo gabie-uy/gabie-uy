@@ -11,11 +11,11 @@
 
 <div align="center">
 
-  [![Codedex Profile](https://img.shields.io/badge/Codedex_Profile-29738e)](https://www.codedex.io/@gabie)
+  [![My Website](https://img.shields.io/badge/My_Website-29738e)](https://www.gabrielle-uy.xyz)
   [![VSCO](https://img.shields.io/badge/VSCO_Photography_Profile-5f96aa)](https://vsco.co/gabie-uy/gallery)
-  [![My Anime list](https://img.shields.io/badge/My_Anime_List-f1e5d7)](https://myanimelist.net/animelist/gabie-uy?status=2)
-  [![Coffee Blog](https://img.shields.io/badge/Coffee_Blog-cec1b8)]()
-  [![Twitch Gaming](https://img.shields.io/badge/Twitch_Gaming-7f6f62)](https://www.twitch.tv/gabizzle11)
+  [![Goodreads](https://img.shields.io/badge/Goodreads-f1e5d7)](https://www.goodreads.com/user/show/158163691-gabie)
+  [![Codedex Profile](https://img.shields.io/badge/Codedex_Profile-cec1b8)](https://www.codedex.io/@gabie)
+  [![Twitch](https://img.shields.io/badge/Twitch-7f6f62)](https://www.twitch.tv/gabizzle11)
   
 </div>
 
