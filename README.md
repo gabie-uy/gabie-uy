@@ -24,7 +24,7 @@
 <br>
 
 > [!WARNING]
-> User nonfunctional without coffee...
+> User nonfunctional without coffee (or matcha as of 2025)...
 <br>
 
 <!-- ABOUT ME -->
